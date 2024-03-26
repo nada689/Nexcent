@@ -316,8 +316,8 @@ body {
 /* Strat medai query section */
 @media screen and (max-width: 700px) {
      /*Start  hero section*/
-    .my_slides{
-        height: 800px;
+    .slideshow_container{
+        height: 750px;
     }
      /*End hero section*/
         /* Start clints section */
